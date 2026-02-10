@@ -88,9 +88,8 @@ The table below summarises the performance of different machine learning models.
 ### Result Graph
 
 #### Actual vs Predicted Burnt Area
-```markdown
 ![Actual vs Predicted Burnt Area](images/graph.png)
-```
+
 
 ---
 
